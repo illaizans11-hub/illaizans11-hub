@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B1020,45:1D4ED8,100:6D28D9&text=Illaiza%20Nur%20Sakina&fontColor=FFFFFF&fontSize=40&fontAlignY=38&desc=Management%20Informatics%20Student%20%C2%B7%20Web%20%26%20Mobile%20Developer%20%C2%B7%20Network%20Enthusiast&descAlignY=58&descSize=15&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B1020,45:1D4ED8,100:6D28D9&text=Illaiza%20Nur%20Sakina&fontColor=FFFFFF&fontSize=40&fontAlignY=38&desc=Management%20Informatics%20Student%20%C2%B7%20Web%20and%20Mobile%20Developer%20%C2%B7%20Network%20Enthusiast&descAlignY=58&descSize=15&animation=fadeIn"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=7C9DFF&center=true&vCenter=true&width=760&lines=Building+practical+and+well-structured+digital+solutions;Web+Development+%C2%B7+Mobile+Development+%C2%B7+Networking;Currently+interning+at+PT+Life+Media;Learning%2C+building%2C+and+improving+every+day" alt="Typing Animation"/>
@@ -35,19 +35,19 @@ Technical Expertise
 
 <div align="center">
 
-Web & Mobile Development
+Web and Mobile Development
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,python&theme=dark" alt="Web Development Skills"/>
 
 <br><br>
 
-Tools & Design
+Tools and Design
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop&theme=dark" alt="Tools and Design Skills"/>
 
 <br><br>
 
-Networking & Systems
+Networking and Systems
 
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows&theme=dark" alt="Networking and Systems Skills"/>
 
@@ -117,7 +117,7 @@ Experience
 </td>
 <td width="33%" valign="top">
 
-<h3>Web & Mobile Development Projects</h3>
+<h3>Web and Mobile Development Projects</h3>
 <p>
 <img src="https://img.shields.io/badge/May%202025-Present-4C1D95?style=flat-square"/>
 </p>
@@ -136,7 +136,7 @@ Experience
 </tr>
 </table>
 
-Academic & Professional Highlights
+Academic and Professional Highlights
 
 <table>
 <tr>
@@ -210,8 +210,8 @@ Current Focus
 
 <img src="https://img.shields.io/badge/Application%20Development-0F172A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Information%20Systems-1E3A8A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backend%20%26%20Database-312E81?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UI%2FUX%20Consistency-4C1D95?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend%20and%20Database-312E81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI-UX%20Consistency-4C1D95?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Mobile%20Development-581C87?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Networking%20%26%20Server-0F172A?style=for-the-badge"/>
 
