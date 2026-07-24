@@ -1,20 +1,5 @@
 <div align="center">
 
-Current Focus
-
-<img src="https://img.shields.io/badge/APPLICATION%20DEVELOPMENT-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/INFORMATION%20SYSTEMS-1E3A8A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BACKEND%20%26%20DATABASE-312E81?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UI%2FUX%20CONSISTENCY-4C1D95?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MOBILE%20DEVELOPMENT-581C87?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NETWORKING%20%26%20SERVER-0F172A?style=for-the-badge"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,45:1E3A8A,100:6D28D9" alt="Wave Divider"/>
-
-</div>
-
-<div align="center">
-
 Illaiza Nur Sakina
 
 Information Management Student · Web Developer · Network Enthusiast
@@ -144,5 +129,20 @@ Contributed to organizational activities through visual branding, social media d
 <div align="center">
 
 Focused on continuous learning, thoughtful design, and practical development.
+
+Current Focus
+
+<img src="https://img.shields.io/badge/APPLICATION%20DEVELOPMENT-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/INFORMATION%20SYSTEMS-1E3A8A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BACKEND%20%26%20DATABASE-312E81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI%2FUX%20CONSISTENCY-4C1D95?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MOBILE%20DEVELOPMENT-581C87?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NETWORKING%20%26%20SERVER-0F172A?style=for-the-badge"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,45:1E3A8A,100:6D28D9" alt="Wave Divider"/>
+
+</div>
+
+<div align="center">
 
 </div>
