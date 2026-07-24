@@ -9,22 +9,6 @@ Current Focus
 <img src="https://img.shields.io/badge/MOBILE%20DEVELOPMENT-581C87?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NETWORKING%20%26%20SERVER-0F172A?style=for-the-badge"/>
 
-Let's Connect
-
-Open to professional connections, collaboration, and opportunities in technology.
-
-<br>
-
-<a href="mailto:illaiza110305@gmail.com">
-  <img src="https://img.shields.io/badge/Email-illaiza110305%40gmail.com-0F172A?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/illaiza-nur-sakina">
-  <img src="https://img.shields.io/badge/LinkedIn-Illaiza%20Nur%20Sakina-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/illaizans11-hub">
-  <img src="https://img.shields.io/badge/GitHub-illaizans11--hub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,45:1E3A8A,100:6D28D9" alt="Wave Divider"/>
 
 </div>
