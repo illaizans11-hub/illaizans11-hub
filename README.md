@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B1020,45:1D4ED8,100:6D28D9&text=Illaiza%20Nur%20Sakina&fontColor=FFFFFF&fontSize=40&fontAlignY=38&desc=Management%20Informatics%20Student%20%C2%B7%20Web%20and%20Mobile%20Developer%20%C2%B7%20Network%20Enthusiast&descAlignY=58&descSize=15&animation=fadeIn"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=7C9DFF&center=true&vCenter=true&width=760&lines=Building+practical+and+well-structured+digital+solutions;Web+Development+%C2%B7+Mobile+Development+%C2%B7+Networking;Currently+interning+at+PT+Life+Media;Learning%2C+building%2C+and+improving+every+day" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1200&color=7C9DFF&center=true&vCenter=true&width=760&lines=Building+practical+and+well-structured+digital+solutions;Web+Development+%C2%B7+Mobile+Development+%C2%B7+Networking;my+sochial+at+media+contact+me;Learning%2C+building%2C+and+improving+every+day" alt="Typing Animation"/>
 </a>
 
 <br>
