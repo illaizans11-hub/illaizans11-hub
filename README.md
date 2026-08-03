@@ -180,7 +180,7 @@ Selected Projects
 <td width="33%" valign="top">
 
 <h3>Billing Salam</h3>
-<p>A customer and billing management system for daily operations and management monitoring.</p>
+<p>A customer and billing management system for daily operations and management monitoringg.</p>
 <p><strong>Key areas:</strong> customer management, monthly billing, payment monitoring, QR Code, analytics dashboard, and reporting.</p>
 <p><strong>Technology:</strong> Laravel, PHP, MySQL, Bootstrap</p>
 <p><a href="https://github.com/illaizans11-hub/billing">View Repository</a></p>
